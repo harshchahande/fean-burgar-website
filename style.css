@@ -1,0 +1,82 @@
+/* section 1 */
+
+.s1-a {
+  color: white;
+}
+.s1-a:hover {
+  color: rgb(244, 193, 10);
+}
+/* section 2 */
+.section2 {
+  width: 100%;
+  height: auto;
+  background-image: url(img/hero-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .s2-d {
+  padding-top: 10%;
+  padding-bottom: 10%;
+} */
+.s2-h1 {
+  font-size: 320%;
+}
+/* section 3 */
+.s3-img:hover {
+  transform: scale(1.1, 1.1);
+}
+.s3-span {
+  font-size: 40px;
+}
+/* section 4 */
+.s4-img:hover {
+  transform: scale(1.2, 1.2);
+}
+.s4-c2 {
+  display: none;
+}
+.s4-c3 {
+  display: none;
+}
+.s4-c4 {
+  display: none;
+}
+.s4-c5 {
+  display: none;
+}
+.s4-d {
+  width: 250px;
+  margin: auto;
+  border-bottom-left-radius: 40px;
+  object-fit: scale-down;
+}
+.s4-span {
+  padding-left: 13px;
+  padding-bottom: 10px;
+  padding-right: 13px;
+  padding-top: 10px;
+}
+
+.s4-c {
+  border-top-left-radius: 40px;
+}
+/* .s4-img {
+  object-fit: scale-down;
+} */
+/* section5 */
+.s5-d {
+  padding-top: 35%;
+}
+/* section 7 */
+.s7-img {
+  border: 4px solid yellow;
+}
+/* menu */
+.menu-nav {
+  background-image: linear-gradient(to right, black, rgb(34, 40, 49));
+}
+/* book table */
+.s2 {
+  padding-top: 20%;
+}
